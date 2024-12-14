@@ -9,4 +9,5 @@ package Test_package;
 public class PatternPrinting5 {
 	public static void main(String[] args) {
 		System.out.println("Hello_class2");
+		System.out.println("Hello_6");
 	}}
